@@ -1,0 +1,20 @@
+h1 {
+    font-size: 120%;
+}
+
+th {
+    background-color: aquamarine;
+
+}
+
+.header {
+    text-align: center;
+    font-size: 160%;
+    margin: 30px;
+    font-family: sans-serif;
+    
+}
+
+body{
+    background-color: aliceblue;
+}
